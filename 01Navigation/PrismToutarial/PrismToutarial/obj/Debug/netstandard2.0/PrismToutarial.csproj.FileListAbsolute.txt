@@ -1,0 +1,28 @@
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\bin\Debug\netstandard2.0\PrismToutarial.deps.json
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\bin\Debug\netstandard2.0\PrismToutarial.dll
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\bin\Debug\netstandard2.0\PrismToutarial.pdb
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.dll
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.pdb
+C:\Users\m.enbeh\source\repos\XamarinWithPrism\Section01 Prisim Basics\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\bin\Debug\netstandard2.0\PrismToutarial.deps.json
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\bin\Debug\netstandard2.0\PrismToutarial.dll
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\bin\Debug\netstandard2.0\PrismToutarial.pdb
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.dll
+C:\Users\m.enbeh\Desktop\PrismToutarial\PrismToutarial\PrismToutarial\obj\Debug\netstandard2.0\PrismToutarial.pdb
