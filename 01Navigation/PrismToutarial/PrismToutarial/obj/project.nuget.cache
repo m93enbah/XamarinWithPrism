@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D4HfCCfsLisbBnjtoKn+YzDsasVtrMXgQYUY0dOrI+Qu0c5En0MgYqZhzMF3jlVRZ5apGw+qxBM6klbIJItHhA==",
+  "dgSpecHash": "Ph6yCC1YU9XxLmdIVbQbvvZ20MFUR1Y4mUXo5BNbLl1Uf/NS5ZyR7a7Rz0yj9t76nZWA4kYf/MDWl6kvcQ4qAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\XamarinWithPrism\\Section01 Navigation And Basics\\PrismToutarial\\PrismToutarial\\PrismToutarial.csproj",
+  "projectFilePath": "C:\\Users\\m.enbeh\\Source\\Repos\\XamarinWithPrism\\01Navigation\\PrismToutarial\\PrismToutarial\\PrismToutarial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m.enbeh\\.nuget\\packages\\dryioc.dll\\4.5.0\\dryioc.dll.4.5.0.nupkg.sha512",
     "C:\\Users\\m.enbeh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
