@@ -8,7 +8,8 @@
         <Label Text="Welcome to Xamarin Forms and Prism!" />
         <Label Text="{Binding FirstParam}" />
         <Label Text="{Binding SecondParam}" />
-        
+
+        <CheckBox IsChecked="{Binding IsChecked}"/>
         <Button Text="Navigate to ViewA" Command="{Binding NavigateCommand}" />
     </StackLayout>
 

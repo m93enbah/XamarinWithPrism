@@ -10,11 +10,29 @@ namespace PrismToutarial.ViewModels
         : base(navigationService, pageDialogService)
         {
             Title = "Main Page";
+            //it will allow to execute the button click by click to checkbox checked
+            _navigateCommand = new DelegateCommand(ExecuteNavigateCommand)
+                          .ObservesCanExecute(() => IsChecked);
         }
 
 
         private DelegateCommand _navigateCommand;
         public DelegateCommand NavigateCommand => _navigateCommand ?? (_navigateCommand = new DelegateCommand(ExecuteNavigateCommand));
+
+
+        private bool _isChecked;
+        public bool IsChecked
+        {
+            get
+            {
+                return _isChecked;
+            }
+            set
+            {
+                SetProperty(ref _isChecked, value);
+            }
+        }
+
 
         public async void ExecuteNavigateCommand()
         {

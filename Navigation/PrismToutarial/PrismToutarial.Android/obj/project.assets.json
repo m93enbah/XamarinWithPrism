@@ -1065,11 +1065,12 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.3.0": {
-      "sha512": "OLcCs8zUGZIzGG7Y4J6O05rEyDXJQqY/MSmqIi5cRaFoh4H82hwT5zBFSyDcMhmcy4ZWpSQtbErtDHe0PxYkug==",
+      "sha512": "oadVHGSMsTmZsAF864QYN1t1QzZjIcuKU3l2S9cZOwDdDueNTrqq1yRj7koFfIGEnKpt6NjpL3rOzRhs4ryOgA==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2256,23 +2257,26 @@
   },
   "packageFolders": {
     "C:\\Users\\m.enbeh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.enbeh\\Source\\Repos\\XamarinWithPrism\\01Navigation\\PrismToutarial\\PrismToutarial.Android\\PrismToutarial.Android.csproj",
+      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\XamarinWithPrism\\Navigation\\PrismToutarial\\PrismToutarial.Android\\PrismToutarial.Android.csproj",
       "projectName": "PrismToutarial.Android",
-      "projectPath": "C:\\Users\\m.enbeh\\Source\\Repos\\XamarinWithPrism\\01Navigation\\PrismToutarial\\PrismToutarial.Android\\PrismToutarial.Android.csproj",
+      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\XamarinWithPrism\\Navigation\\PrismToutarial\\PrismToutarial.Android\\PrismToutarial.Android.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.enbeh\\Source\\Repos\\XamarinWithPrism\\01Navigation\\PrismToutarial\\PrismToutarial.Android\\obj\\",
+      "outputPath": "C:\\Users\\m.enbeh\\source\\repos\\XamarinWithPrism\\Navigation\\PrismToutarial\\PrismToutarial.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\m.enbeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2281,14 +2285,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\inetpub\\wwwroot\\MyWorkAngular\\AngApprovalNotification\\Packages\\enbeh-shared-setup-domain-package\\1.0.0": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/nuget": {}
       },
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\m.enbeh\\Source\\Repos\\XamarinWithPrism\\01Navigation\\PrismToutarial\\PrismToutarial\\PrismToutarial.csproj": {
-              "projectPath": "C:\\Users\\m.enbeh\\Source\\Repos\\XamarinWithPrism\\01Navigation\\PrismToutarial\\PrismToutarial\\PrismToutarial.csproj"
+            "C:\\Users\\m.enbeh\\source\\repos\\XamarinWithPrism\\Navigation\\PrismToutarial\\PrismToutarial\\PrismToutarial.csproj": {
+              "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\XamarinWithPrism\\Navigation\\PrismToutarial\\PrismToutarial\\PrismToutarial.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQVK8CP96HVN7EEW39+KAn2UkQyoCKdOtjcuuOfMLLY+KPXtRbt10ZC1pCxDnKGC/IZ1S63krhF7sNBgA7KZCg==",
+  "dgSpecHash": "+AXwpN2eM6Anzsfcclmr74v9KhWpyCSL5Y5MgDl/JmdzSvV0hRgtdO7XlFTN+ZtnjqNftNU9c+KN705C3FmyZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.enbeh\\Source\\Repos\\XamarinWithPrism\\01Navigation\\PrismToutarial\\PrismToutarial.Android\\PrismToutarial.Android.csproj",
+  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\XamarinWithPrism\\Navigation\\PrismToutarial\\PrismToutarial.Android\\PrismToutarial.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m.enbeh\\.nuget\\packages\\dryioc.dll\\4.5.0\\dryioc.dll.4.5.0.nupkg.sha512",
     "C:\\Users\\m.enbeh\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
